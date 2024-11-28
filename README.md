@@ -1,5 +1,4 @@
 #### **README.md**
-```markdown
 # Image Format Converter
 
 A simple Python-based utility to convert images between various formats using the Pillow library. 
@@ -70,8 +69,4 @@ Enter the desired format for the image:
 
 Image successfully converted to WEBP!
 Saved at: example_converted.webp
-```
-
-## Contributing
-Feel free to submit issues or pull requests to improve this project.
 ```
